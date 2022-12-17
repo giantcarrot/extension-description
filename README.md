@@ -5,6 +5,7 @@
 ![image](https://user-images.githubusercontent.com/112845856/189462506-4b4eb8fb-827f-4c9c-81da-4815d92bcf4b.png)
 ## Installation
 #### Download the repository
+
 ### Google Chrome:
 #### • Open the extension menu(type _chrome://extensions/_ in the address bar)
 ![image](https://user-images.githubusercontent.com/112845856/189461815-6a966b52-5182-4f17-ac34-09286b95e006.png)
@@ -18,6 +19,7 @@
 
 #### • IF you want notification features(getting notifications from followers, be able to download new toks on the fly)
 Upload the _connect-ext_ folder as a second extension(a bit of a crutch to make an MV3 extension to work properly: https://crbug.com/1152255)
+![image](https://user-images.githubusercontent.com/112845856/208250777-b4ab9672-b503-4169-a187-7b3078d12567.png)
 
 ### Firefox:
 #### • Open firefox extension menu(type _about:addons_ in the address bar) and select Install Add-on From File
