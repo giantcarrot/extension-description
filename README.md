@@ -17,7 +17,7 @@
 #### • Click _Load unpacked_ and upload the root folder
 ![image](https://user-images.githubusercontent.com/112845856/189462008-1e32a6d2-02f7-460a-92a2-68352349deaa.png)
 
-#### • IF you want notification features(getting notifications from followers, be able to download new toks on the fly)
+#### • IF you want notification features(getting notifications from people you follow, be able to download new toks on the fly)
 Upload the _connect-ext_ folder as a second extension(a bit of a crutch to make an MV3 extension to work properly: https://crbug.com/1152255)
 ![image](https://user-images.githubusercontent.com/112845856/208250777-b4ab9672-b503-4169-a187-7b3078d12567.png)
 
